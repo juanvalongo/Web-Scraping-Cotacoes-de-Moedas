@@ -88,8 +88,8 @@ consultar a API do Banco Central.
 ### 2. Clone o repositório
 
 ``` bash
-git clone https://github.com/juanvalongo/Web-Scraper-G1.git
-cd Web-Scraper-G1
+git clone https://github.com/juanvalongo/Web-Scraping-Cotacoes-de-Moedas.git
+cd Web-Scraping-Cotacoes-de-Moedas
 ```
 
 ### 3. Crie e ative um ambiente virtual (recomendado)
