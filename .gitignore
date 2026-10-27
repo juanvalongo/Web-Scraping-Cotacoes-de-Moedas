@@ -1,0 +1,39 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ferramentas de teste e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configurações locais e segredos
+.env
+.env.*
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Dados e gráficos gerados pelo programa
+dados_cotacoes/
+
+# Scripts auxiliares de diagnóstico e testes
+diagnostico_ars.py
+diagnostico_correlacao.py
+teste_paginacao.py
